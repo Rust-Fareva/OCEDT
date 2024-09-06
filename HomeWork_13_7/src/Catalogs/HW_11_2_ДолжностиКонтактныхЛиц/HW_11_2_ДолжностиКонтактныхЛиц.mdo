@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="9e676a6a-0b6d-4116-a08c-95c432e23391">
+  <producedTypes>
+    <objectType typeId="7986c1bc-62b2-47fc-8652-e95915f0167c" valueTypeId="6e0a4551-6be2-4f53-94e0-09cb76559db8"/>
+    <refType typeId="6a05b27c-7674-4b16-9b34-194d3b891e12" valueTypeId="707e9fca-5b46-4480-b193-fbb897f62205"/>
+    <selectionType typeId="6c9d6105-57bb-46e1-9fdb-1962ac1df356" valueTypeId="eb8a4edd-573d-4c1c-89ab-4e64da94675c"/>
+    <listType typeId="dfef9326-3264-46f4-b82b-31d3751b0de8" valueTypeId="466439f4-a775-4eb5-b861-eda3fe0553f2"/>
+    <managerType typeId="a887d8fc-80d7-42a7-aebb-b8f5209873f4" valueTypeId="1d9ed4f5-4ec8-4653-a95c-8a7a726b3c54"/>
+  </producedTypes>
+  <name>HW_11_2_ДолжностиКонтактныхЛиц</name>
+  <synonym>
+    <key>ru</key>
+    <value>Должности контактных лиц</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Catalog.HW_11_2_ДолжностиКонтактныхЛиц.StandardAttribute.Code</inputByString>
+  <inputByString>Catalog.HW_11_2_ДолжностиКонтактныхЛиц.StandardAttribute.Description</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <codeLength>9</codeLength>
+  <descriptionLength>25</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:Catalog>
